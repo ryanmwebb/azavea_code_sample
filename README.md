@@ -7,4 +7,4 @@ tables, markov models, linear algrebra processes, or a machine learning pipeline
 
 I can produce other samples upon request that are not guided by academic work, but cannot host them publicly.
 
--Enjoy
+-Ryan
